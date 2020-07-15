@@ -1,0 +1,15 @@
+# <email> ve <parola> ile login olunur
+* "https://www.hepsiburada.com" adresine gidilir
+* "5" saniye beklenir
+* "//*[text()='Giriş Yap']" xpathi calistirilir
+* "5" saniye beklenir
+* "//*[@id='login']" xpathi calistirilir
+* "5" saniye beklenir
+* "//*[@id='txtUserName']" objesine <email> degeri yazılır
+* "5" saniye beklenir
+* "//*[@id='txtPassword']" objesine <parola> degeri yazılır
+* "5" saniye beklenir
+//* "//*[@id='captchaText']" objesine "captchaDegeri" degeri yazılır
+//* "25" saniye beklenir
+* "//button[text()='Giriş yap']" xpathi calistirilir
+* "5" saniye beklenir

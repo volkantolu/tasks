@@ -1,0 +1,9 @@
+<class>
+    <server dbName="RMDBSRVT">
+        <servername>KKBTST</servername>
+        <username>OTOMASYON</username>
+        <password>Otom12345</password>
+        <port>4524</port>
+        <driver>oracle.jdbc.driver.OracleDriver</driver>
+    </server>
+</class>

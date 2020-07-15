@@ -1,0 +1,21 @@
+# Urun Gezinti Concept
+* "//div[contains(@id,'dealoftheday')]//div[@data-index=1]//a" xpathi calistirilir
+* "5" saniye beklenir
+* "//div[@class='product-detail-module']//meta[@itemprop='sku']" xpathi calistirilir
+* "5" saniye beklenir
+* "https://www.hepsiburada.com" adresine gidilir
+* "5" saniye beklenir
+
+* "//div[contains(@id,'dealoftheday')]//div[@data-index=2]//a" xpathi calistirilir
+* "5" saniye beklenir
+* "//div[@class='product-detail-module']//meta[@itemprop='sku']" xpathi calistirilir
+* "5" saniye beklenir
+* "https://www.hepsiburada.com" adresine gidilir
+* "5" saniye beklenir
+
+* "//div[contains(@id,'dealoftheday')]//div[@data-index=3]//a" xpathi calistirilir
+* "5" saniye beklenir
+* "//div[@class='product-detail-module']//meta[@itemprop='sku']" xpathi calistirilir
+* "5" saniye beklenir
+* "https://www.hepsiburada.com" adresine gidilir
+* "5" saniye beklenir
